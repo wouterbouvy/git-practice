@@ -24,6 +24,8 @@ Check out your fork! At the moment, it's just a copy of the [original repository
 
 ## 2. Clone
 
+Wouter hier!
+
 You now have a copy of this repository on GitHub. But how can you make changes? It's possible to manually edit files on GitHub, but this is not at all convenient. Instead, you should create a *local clone* of the repository. To do this, hit the big green button and choose Open in GitHub Desktop. Choose to create the repo in a location where you'll easily remember it. 
 
 ## 3. Edit a File
