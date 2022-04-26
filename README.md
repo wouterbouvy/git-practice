@@ -1,4 +1,4 @@
-# Practice with git and GitHub
+# Qractice with git and GitHub
 
 Hi there, this is working just fine.
 
